@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aya-Bs
-- 👀 I’m interested in software developpment
-- 🌱 I’m currently learning oop with JS
+- 👋 Hi, I’m @Aya-Bs and I am software engineer
+- ✨ I am passionate about clean code, teamwork & building cool stuff
+- 🌱 Currently working on a project management app with AI features
 
 
 <!---
